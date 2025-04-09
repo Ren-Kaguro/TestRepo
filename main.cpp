@@ -8,5 +8,6 @@ int main(int argc, char *argv[])
     Widget w;
     w.setWindowTitle("Hello Github");
     w.show();
+    w.resize(800,600);
     return a.exec();
 }
