@@ -9,5 +9,7 @@ int main(int argc, char *argv[])
     w.setWindowTitle("Hello Github");
     w.show();
     w.resize(800,600);
+    //Sziasztok nagyvilág mizuka van adjatok anekdotát csírááááák ye
+    //kurvajogec xd
     return a.exec();
 }
